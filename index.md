@@ -146,18 +146,7 @@ Hi there! I am a sophomore at the University of California, San Diego. Double ma
         <td>
           The <a href="https://ucsdtriplec.org/">Chinese Computer Community</a> (Triple C) is a project based non-profit student organization at UCSD formed by Chinese speaking students interested in the Internet Industry.
         </td>
-      </tr>
-      <tr>
-        <td>
-          2021 March - Current
-        </td>
-        <td>
-          Scientific Intern, Brilliant Biome Inc.
-        </td>
-        <td>
-          Insert Introduction Here.
-        </td>
-      </tr>
+    </tr>
       <tr>
         <td>
           2021 March - Current
