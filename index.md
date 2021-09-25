@@ -13,10 +13,15 @@ Learn to use `library(Seurat)` to be hired as a bioinformatician.
 ## Education
 
 **University of California, San Diego**. Antitipated Graduation: June 2022.
-1. Mathematics - Computer Science. Major GPA: 3.7. 
-2. [Cognitive Science with a Specialization in Machine Learning and Neural Computation](https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html). Major GPA: 3.7. 
+1. Major in Mathematics - Computer Science. Major GPA: 3.7. 
+2. Major in[Cognitive Science with a Specialization in Machine Learning and Neural Computation](https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html). Major GPA: 3.7. 
+3. Minor in History. 
 
 ## Work Experience
+
+## Projects and Code Samples
+
+A list of the projects I worked on can be found in [this file](projects.md). 
 
 <hr />
     <h3>Education</h3>
