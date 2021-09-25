@@ -179,6 +179,7 @@ Hi there! I am a sophomore at the University of California, San Diego. Double ma
       </tr>
     </table>
     <hr />
+    
 ## Bucket List
 
 - [ ] Hike the Mt. Whitney Trail
