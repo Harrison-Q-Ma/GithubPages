@@ -34,10 +34,31 @@ Learn to use `library(Seurat)` to be hired as a bioinformatician.
     - CSE 130: Programming Languages: Principles and Paradigms
     - CSE 158: Recommender Systems and Web Mining
 2. Major in[Cognitive Science with a Specialization in Machine Learning and Neural Computation](https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html). Major GPA: 3.7. Courses Taken:
-    - COGS 108: 
-3. Minor in History. 
+    - COGS 18: Introduction to Python (as student and TA)
+    - COGS 108: Data Science in Practice (Python, Pandas, Seaborn, etc.) (as student and TA)
+    - COGS 109: Modeling and Data Analysis (Linear Regression, Logistic Regression, LDA, Bootstrapping)
+    - COGS 118A: Supervised Machine Learning Algorithms (Perceptron, SVM, K-Nearest Neighbor)
+    - COGS 118B: Unsupervised Machine Learning Algorithms (KMeans, Spectral Clustering, E-M Algorithm)
+    - COGS 160: Genetic Algorithms (Simulated Annealing, Genetic Algorithms (Knapsack, Traveling Salesman), Particle Swarm Algorithms)
+    - COGS 188: AI Algorithms (Naive Bayes, KNN)
+    - COGS 101A: Sensation and Perception
+    - COGS 101C: Language
+    - COGS 102A: Cognitive Perspectives
+    - COGS 14A&B: Intro to Research Methods & Statistical Analysis
+    - COGS 17: Neurobiology of Cognition
+    - COGS 107A: Cognitive Neuroscience
+3. Minor in History. Minor GPA: 4.0. Courses Taken:
+    - HIEA 129: Faces of the Chinese Past. 
+    - HISC 105: History of Environmentalism. 
+    - HIEA 137: Women and the Family in Chinese History. 
 
 ## Work Experience
+- Instructional Apprentice, UC San Diego Cognitive Science Department. 2020 October - December.
+- Human Resources Director, Chinese Union Non-Profit Organization. 2020 March - 2021 March. 
+- Human Resources Officer, Chinese Computer Community. 2021 February - 2021 September. 
+- Undergraduate Volunteer in Bioinformatics, Neil Chi Lab. 2021 March - Current. 
+- Undergraduate Teaching Assistant, UC San Diego Department of Mathematics. 2021 September - Current. 
+- Instructional Apprentice, UC San Diego Cognitive Science Department. 2021 September - Current.
 
 ## Projects and Code Samples
 
@@ -45,7 +66,7 @@ A list of the projects I worked on can be found in [this file](projects.md).
     
 ## Bucket List
 
-- [ ] Hike the Mt. Whitney Trail
 - [x] Finish Top 500 in an Overwatch competitive season
+- [ ] Hike the Mt. Whitney Trail
 - [ ] Run a marathon
 - [ ] Fly a plane
