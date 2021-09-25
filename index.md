@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/8BKmFyY.jpeg" alt="profile pic" width="200"/>
-
 # Qixuan "Harrison" Ma
 _Student at UC San Diego_
 
