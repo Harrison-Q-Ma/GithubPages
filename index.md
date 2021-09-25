@@ -8,6 +8,8 @@ Hi there! I am a sophomore at the University of California, San Diego. Double ma
 My favorite quote is: 
 > Where is your mana? You have no mana. 
 
+Learn to use `library(Seurat)` to be hired as a bioinformatician. 
+
 <hr />
     <h3>Education</h3>
     <ul style="width:55%">
