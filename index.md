@@ -179,3 +179,9 @@ Hi there! I am a sophomore at the University of California, San Diego. Double ma
       </tr>
     </table>
     <hr />
+## Bucket List
+
+- [ ] Hike the Mt. Whitney Trail
+- [x] Finish Top 500 in an Overwatch competitive season
+- [ ] Run a marathon
+- [ ] Fly a plane
