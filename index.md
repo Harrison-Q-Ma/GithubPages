@@ -5,6 +5,9 @@ _Student at UC San Diego_
 
 Hi there! I am a sophomore at the University of California, San Diego. Double major in Math-Computer Science and Cognitive Science with a Specialization in Machine Learning and Neural Computation with a minor in History. I have a strong interest in Bioinformatics, game development, and data analysis. Outside of school, I work as a undergraduate volunteer in bioinformatics for Neil Chi lab at UCSD School of Medicine and I play support for UCSD's varsity collegiate Overwatch Team. 
 
+My favorite quote is: 
+> Where is your mana? You have no mana. 
+
 <hr />
     <h3>Education</h3>
     <ul style="width:55%">
